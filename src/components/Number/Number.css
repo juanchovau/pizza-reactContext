@@ -1,0 +1,49 @@
+.neonPink {
+	color: rgb(245, 223, 101);
+
+	text-shadow:
+		0 0 5px rgb(240, 144, 115),
+		0 0 10px rgb(240, 144, 115),
+		0 0 20px rgba(240, 144, 115),
+		0 0 40px rgb(231, 85, 48),
+		0 0 80px rgba(231, 85, 48),
+		0 0 90px rgba(231, 85, 48),
+		0 0 100px rgb(121, 46, 3),
+		0 0 140px rgba(121, 46, 3),
+		0 0 180px rgba(121, 46, 3);
+}
+
+.neon {
+	color: #fff;
+
+	text-shadow:
+		0 0 5px rgba(0,178,255,1),
+		0 0 10px rgba(0,178,255,1),
+		0 0 20px rgba(0,178,255,1),
+		0 0 40px rgba(38,104,127,1),
+		0 0 80px rgba(38,104,127,1),
+		0 0 90px rgba(38,104,127,1),
+		0 0 100px rgba(38,104,127,1),
+		0 0 140px rgba(38,104,127,1),
+		0 0 180px rgba(38,104,127,1);
+}
+
+.neonbox{
+	box-shadow:
+	0 0 5px rgba(0,178,255,1) inset,
+	0 0 8px rgba(0,178,255,1)inset,
+	0 0 9px rgba(0,178,255,1)inset,
+	0 0 5px rgba(0,178,255,1),
+	0 0 10px rgba(0,178,255,1),
+	0 0 15px rgba(38,104,127,1),
+	0 0 20px rgba(38,104,127,1),
+	0 0 25px rgba(38,104,127,1);
+	;
+
+
+}
+
+.number{
+	font-size: 50px;
+	font-family: neon;
+}

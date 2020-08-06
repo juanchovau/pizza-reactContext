@@ -1,0 +1,15 @@
+
+@font-face{
+    font-family: neon;
+    src: url(../../fonts/NEON____.TTF)
+}
+
+.title{
+    font-size: 150px;
+    font-family: neon;
+}
+
+.pizzaTitle {
+    margin-top: -130px;
+    margin-left: 70px;
+}
